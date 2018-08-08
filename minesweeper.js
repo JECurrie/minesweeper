@@ -1,5 +1,4 @@
-// Run node minesweeper.js to run this code.
-const board = [
+let board = [
   [' ',' ',' '],
   [' ',' ',' '],
   [' ',' ',' ']
