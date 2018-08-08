@@ -6,8 +6,6 @@ const board = [
 ];
 
 const printBoard = board => {
-  // Log 'Current Board: '
-  // Log the first element of the board variable
   console.log('Current board:');
   console.log(board[0].join(' | '));
   console.log(board[1].join(' | '));
